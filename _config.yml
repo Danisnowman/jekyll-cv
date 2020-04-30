@@ -17,3 +17,5 @@ email_address: danielernesto@ufm.edu
 
 # Build settings
 markdown: kramdown
+
+plugins: github-pages

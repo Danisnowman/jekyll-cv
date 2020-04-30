@@ -1,0 +1,19 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Resumé
+email: danielernesto@ufm.edu
+description: Jekyll Resume is a mega simple resume theme for Jekyll.
+baseurl: ""
+url: "http://mattcouchman.co.uk/jekyll-resume"
+name: Daniel E. Hernández
+job: Computer Science Student
+location: Guatemala City, GT
+languages: programming, data science, infosec, theology, literature
+twitter_username: snowminal
+github_username:  Danisnowman
+instagram_user:  danisnowman
+email_address: danielernesto@ufm.edu
+
+# Build settings
+markdown: kramdown

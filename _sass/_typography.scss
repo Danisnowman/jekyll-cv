@@ -1,0 +1,22 @@
+// @name Typography
+// @description All typography settings and styles
+
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&display=swap');
+
+// Our variables
+$base-font-family: "Amiri", 'Helvetica', serif;
+$base-font-size:   24px;
+
+body {
+    font-family: $base-font-family, serif;
+    font-size: $base-font-size;
+    line-height: 1.4;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400;500&display=swap');
+
+:lang(grc) {
+    font-family: 'Alegreya', serif;
+}
+
+

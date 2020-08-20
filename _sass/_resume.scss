@@ -48,4 +48,17 @@ a {
         background: rgba(245, 215, 110, 1);
         text-decoration: none;
     }
+
+    .intextlink {
+
+    color: black!important;
+    transition: all linear .2s;
+
+    &:hover {
+        color: burlywood;
+        text-decoration: none;
+    }
 }
+}
+
+

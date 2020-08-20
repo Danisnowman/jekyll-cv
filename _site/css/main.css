@@ -52,3 +52,5 @@ dt, dd { display: inline-block; vertical-align: top; margin-bottom: 20px; }
 
 a { color: black !important; background: rgba(245, 215, 110, 0.5); transition: all linear .2s; }
 a:hover { background: #f5d76e; text-decoration: none; }
+a .intextlink { color: black !important; transition: all linear .2s; }
+a .intextlink:hover { color: burlywood; text-decoration: none; }
